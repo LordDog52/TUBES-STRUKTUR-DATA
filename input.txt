@@ -1,0 +1,54 @@
+DATA AKTOR
+
+budi susanto
+jawa tengah
+12 februari 2001
+22
+
+andi kurniawan
+jawa timur
+11 Agustus 1998
+25
+
+sinta malasari
+jakarta
+13 juni 1990
+33
+
+dewi kumala
+palembang
+09 mei 1997
+26
+
+ratna kurniawati
+kalimantan timur
+02 maret 2004
+19
+
+
+DATA FILM
+
+avatar the way of the water
+petualangan
+anwar kurniawan
+180
+2022
+
+qorin
+horor
+saipul mustofa
+90
+2022
+
+kkn didesa penari
+horor
+joko anwar
+160
+2022
+
+tumbal kanjeng iblis
+horor
+maulana yusuf
+90
+2019
+
