@@ -13,4 +13,4 @@ Rancanglah multi-linked list yang memodelkan aktor dan film. Seorang aktor dapat
 9)	Membuat relasi antara aktor X dan film Y (15 poin)
 10)	Menghapus relasi antara aktor X dan film Y (15 poin)
 11)	Menampilkan aktor yang memiliki jumlah jumlah film paling banyak dan menampilkan judul filmnya (10 poin)
-12)	Menampilkan judul-judul film oleh aktor X(10 poin)
+12)	Menampilkan aktor-aktor film oleh film Y(10 poin)
